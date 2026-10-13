@@ -1,0 +1,62 @@
+[
+    {
+        "question": "Which keyword is used to define a function in Python?",
+        "options": ["func", "def", "function", "define"],
+        "answer": 2
+    },
+    {
+        "question": "Which data type is used to store key-value pairs in Python?",
+        "options": ["list", "tuple", "dictionary", "set"],
+        "answer": 3
+    },
+    {
+        "question": "What is the output of len([1, 2, 3, 4])?",
+        "options": ["3", "4", "5", "Error"],
+        "answer": 2
+    },
+    {
+        "question": "Which loop is used to iterate over a sequence in Python?",
+        "options": ["for", "repeat", "foreach", "loop"],
+        "answer": 1
+    },
+    {
+        "question": "Which module is used to work with JSON in Python?",
+        "options": ["jsonlib", "pyjson", "json", "simplejson"],
+        "answer": 3
+    },
+    {
+        "question": "What does the append() method do on a list?",
+        "options": ["Removes the last item", "Adds an item at the end", "Sorts the list", "Reverses the list"],
+        "answer": 2
+    },
+    {
+        "question": "Which symbol is used to start a comment in Python?",
+        "options": ["//", "/*", "#", "--"],
+        "answer": 3
+    },
+    {
+        "question": "What is the result of 10 // 3 in Python?",
+        "options": ["3.33", "3", "4", "1"],
+        "answer": 2
+    },
+    {
+        "question": "Which keyword is used to exit a loop immediately?",
+        "options": ["stop", "exit", "break", "return"],
+        "answer": 3
+    },
+    {
+        "question": "Which function is used to read input from the user?",
+        "options": ["scan()", "input()", "read()", "get()"],
+        "answer": 2
+    },
+    {
+        "question": "What does json.load() do?",
+        "options": ["Writes JSON to a file", "Reads JSON from a file into Python objects", "Converts a string to uppercase", "Deletes a JSON file"],
+        "answer": 2
+    },
+    {
+        "question": "Which of these is a mutable data type?",
+        "options": ["tuple", "string", "list", "int"],
+        "answer": 3
+    }
+]
